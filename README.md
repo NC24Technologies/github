@@ -1,4 +1,4 @@
-hi hiiiiiiiiiiiiiiiiiiiiii
+hiiiiiiiiiii
 
 # Maintainers wanted
 [Apply within](https://github.com/github-tools/github/issues/539)
