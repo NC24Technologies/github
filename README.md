@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-hiiiiiiiiiii
-=======
-added the variables and made the code chagnes in the function name
 
-
->>>>>>> b48722ca723f7f2a4bea7639e5919b7a8bfbd123
 
 # Maintainers wanted
 [Apply within](https://github.com/github-tools/github/issues/539)
